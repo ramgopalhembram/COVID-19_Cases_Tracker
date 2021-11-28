@@ -45,7 +45,7 @@ header{
 
     margin: 0 auto;
 
-    background-color: hsla(0, 100%, 100%, 0.4);
+    background-color: hsla(100%, 100%, 100%, 0.4);
     position: sticky;
     top: 0;
 }
